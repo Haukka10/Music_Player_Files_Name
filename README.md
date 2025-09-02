@@ -11,5 +11,5 @@ Great for testing, placeholders, or just laughs.
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/music-file-namer.git
+git clone https://github.com/Haukka10/Music_Player_Files_Name.git
 cd music-file-namer
