@@ -13,7 +13,9 @@ in files MusicText.text type a lyrics like this:
 
 1. Set how many files is make
 <img width="1107" height="621" alt="image" src="https://github.com/user-attachments/assets/2119d5b8-328e-40dd-ac2a-5c85b0387ff2" />
-2. aske to delete make flies 
+2. aske to delete make flies
+
+   
 Clone the repo:
 
 ```bash
